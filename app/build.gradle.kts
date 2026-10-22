@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.androiddemo"
+    namespace = "com.example.lineconnect"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.androiddemo"
+        applicationId = "com.example.lineconnect"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

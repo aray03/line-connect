@@ -22,7 +22,7 @@ Open the project in Android Studio and press **Run**, or from the command line:
 
 ## Project layout
 
-`app/src/main/java/com/example/androiddemo/flow/`
+`app/src/main/java/com/example/lineconnect/flow/`
 
 | Package | Contents |
 |---|---|

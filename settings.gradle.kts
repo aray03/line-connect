@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AndroidDemo"
+rootProject.name = "line-connect"
 include(":app")
