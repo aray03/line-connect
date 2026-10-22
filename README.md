@@ -28,3 +28,4 @@ Open the project in Android Studio and press **Run**, or from the command line:
 | `generator/` | Random board generator and the connection counter it uses |
 | `data/` | Saved progress |
 | `ui/` | Compose screens and the board canvas |
+
